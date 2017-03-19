@@ -1,4 +1,6 @@
-## Start a new project.
+## IPRP Prestations
+# (Intervenant en prévention des risques professionnels)
 
-1. Fork this repo
-1. Rename-it then clone it on your computer
+Static website w/ datas, presenting french IPRP service deliveries
+
+A Middleman project.
